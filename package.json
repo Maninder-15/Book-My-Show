@@ -1,0 +1,15 @@
+{
+  "name": "cinepass-fullstack",
+  "version": "1.0.0",
+  "description": "Real-time Movie Ticket Booking System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7",
+    "ws": "^8.16.0"
+  }
+}
